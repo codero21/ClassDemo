@@ -6,7 +6,3 @@
 //  Copyright © 2020 Francois Technology. All rights reserved.
 //
 
-import Foundation
-
-print("Hello, World!")
-
